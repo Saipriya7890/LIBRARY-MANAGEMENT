@@ -1,4 +1,3 @@
-
 -- Drop Tables if they exist
 DROP TABLE IF EXISTS user_login;
 DROP TABLE IF EXISTS publisher;
